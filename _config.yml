@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter "@calvertkr"
+  username               : &twitter "calvertkr"
 facebook:
   username               :
   app_id                 :
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Kristin Calvert"
   avatar           : "profile.png"
-  bio              : "Academic librarian with experience in administration, technical services, collections, technology, and data services."
+  bio              : "Academic librarian | administration, technical services, collections, technology, and data services."
   location         : "North Carolina"
   employer         : "Western Carolina University"
   pubmed           : 
