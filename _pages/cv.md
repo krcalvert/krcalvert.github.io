@@ -11,43 +11,49 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.A. Political Science, University of California, Berkeley 2004
+* M.L.I.S. University of Rhode Island, 2009
+* M.S. Statistics, North Carolina State University, 2021 (expected)
 
-Work experience
+Selected Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Department Head: Discovery and Technology Services
+* Interim Department Head: Content Organization and Management
+  * Associate Professor
+  * Western Carolina University
+  * 2020 to present
+    
+* Department Head: Content Organization and Management
+  * Associate Professor 2017 to 2020
+  * Assistant Professor 2015 to 2017
+  * Western Carolina University
+  
+* Electronic Resources Librarian
+  * Assistant Professor 
+  * Western Carolina University
+  * 2011 to 2015
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Head of Periodicals
+  * Saint Anselm College, Manchester, NH
+  * 2008 to 2011 
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Collection Assessment
+* Electronic Resources
+* Planning and Budgeting
+* Statistical Analysis
+  * SAS 9.4 certified
+  * R/R Studio/R Shiny
+  * Tableau
+* Leadership
 
 Publications
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
+
 Teaching
 ======
   <ul>{% for post in site.teaching %}
@@ -56,4 +62,13 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* North Carolina Library Association
+  * Resources and Technical Services Section Chair
+  * 2019 to 2021
+* Women of Western steering committee
+  * Plan women’s leadership development activities
+  * 2017 to 2019
+* Inaugural faculty member selected for the Women's Leadership in Action Program. 
+  * Western Carolina University
+  * 2015 to 2016
+* HERS Summer Institute at Bryn Mawr, 2016
