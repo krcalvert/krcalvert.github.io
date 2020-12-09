@@ -45,7 +45,7 @@ Skills
 * Planning and Budgeting
 * Statistical Analysis
   * SAS 9.4 certified
-  * R | R Studio | R Shiny
+  * R, R Studio, R Shiny
   * Tableau
 
 Publications
