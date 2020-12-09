@@ -1,7 +1,8 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "R Shiny App"
+excerpt: "An R Shiny application from Master's program using Public Library Survey data.<br/><img src='/images/shiny.png'>"
 collection: portfolio
 ---
+An R Shiny application from North Carolina State University's Master's program in Statistics (ST 558) using 2014 Public Library Survey data. [View application](https://krcalvert.shinyapps.io/PLS2014/)
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+The goal of this project was to create a nice looking shiny app that can be used to explore data and model it. It was required to have dynamic UI elements, supervised and unsupervised learning models, and options for users to interact with the data, set options, and save data.
